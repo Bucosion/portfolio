@@ -1,0 +1,9 @@
+C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\bin\Debug\netstandard2.0\portofoliu.Helpers.deps.json
+C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\bin\Debug\netstandard2.0\portofoliu.Helpers.dll
+C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\bin\Debug\netstandard2.0\portofoliu.Helpers.pdb
+C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.csprojAssemblyReference.cache
+C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.AssemblyInfoInputs.cache
+C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.AssemblyInfo.cs
+C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.dll
+C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.pdb
