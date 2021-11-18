@@ -14,10 +14,36 @@ namespace portofoliu.Controllers
      public class HomeController : Controller
      {
           SQLportofoliuData db = new SQLportofoliuData();
+          Utilizator _user;
           public ActionResult Index()
           {
+               var _user = (Utilizator)Session["_user"];
+        //       ViewBag.user = _user.IsAdmin;
+               ViewBag.Products = db.GetProducts();
                var model = db.GetBlogs();
                return View(model);
+          }
+
+          public ActionResult Login()
+          {
+
+               return View();
+          }
+          [HttpPost]
+          [ValidateAntiForgeryToken]
+          public ActionResult Login(Utilizator user)
+          {
+               _user = db.Check(user);
+               Session["_user"] = _user;
+               return RedirectToAction("Index");
+          }
+
+
+
+          public ActionResult Delete(int id)
+          {
+               db.Delete(id);
+               return RedirectToAction("Index", "Home");
           }
 
           public ActionResult Blo_blog_add()
@@ -33,6 +59,20 @@ namespace portofoliu.Controllers
                db.Add(blog);
                return View();
           }
+
+          public ActionResult Eco_product_add()
+          {
+               return View();
+          }
+
+          [HttpPost]
+          [ValidateAntiForgeryToken]
+          public ActionResult Eco_product_add(Product product)
+          {
+               db.Add(product);
+               return View();
+          }
+
 
           public ActionResult Dashboard()
           {
@@ -132,12 +172,6 @@ namespace portofoliu.Controllers
                return View();
           }
 
-          public ActionResult Eco_product_add()
-          {
-               ViewBag.Message = "Your contact page.";
-
-               return View();
-          }
 
           public ActionResult Eco_product_edit()
           {

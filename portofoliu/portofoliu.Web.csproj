@@ -2234,6 +2234,8 @@
     <Content Include="Views\Home\Blo_blog_view1.cshtml" />
     <Content Include="Views\Home\Blo_blog_add.cshtml" />
     <Content Include="Views\Home\Blo_user_add.cshtml" />
+    <Content Include="Views\Home\Login.cshtml" />
+    <Content Include="Views\Home\Eco_product_add.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uUTiiC9u+Wg2H6R/oeRK+Dorfxxvqqlh/1T5tywy23XM5JVMLVrGfwNcpD+OD3ihxevUvkqFInISkZ09JFnWGA==",
+  "dgSpecHash": "bqrF4l06hFWTmlWgtvgAcc/ovMOShwb0Yi4dpaFcb94EUEzymbOFzq8C3fGR4sRttQ3FzSlM0ZqOvaj7EgfaZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\37360\\source\\repos\\portofoliu\\portofoliu.Domain\\portofoliu.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Bucos Ion\\Desktop\\portofoliu\\portofoliu.Domain\\portofoliu.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\37360\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
-    "C:\\Users\\37360\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\37360\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\37360\\.nuget\\packages\\sitecore.fakedb\\2.0.1\\sitecore.fakedb.2.0.1.nupkg.sha512"
+    "C:\\Users\\Bucos Ion\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
+    "C:\\Users\\Bucos Ion\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bucos Ion\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Bucos Ion\\.nuget\\packages\\sitecore.fakedb\\2.0.1\\sitecore.fakedb.2.0.1.nupkg.sha512"
   ],
   "logs": [
     {

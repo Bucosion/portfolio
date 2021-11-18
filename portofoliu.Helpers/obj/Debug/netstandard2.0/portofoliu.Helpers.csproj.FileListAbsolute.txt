@@ -7,3 +7,13 @@ C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2
 C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.csproj.CoreCompileInputs.cache
 C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.dll
 C:\Users\37360\source\repos\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.pdb
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Helpers\bin\Debug\netstandard2.0\portofoliu.Helpers.deps.json
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Helpers\bin\Debug\netstandard2.0\portofoliu.Helpers.dll
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Helpers\bin\Debug\netstandard2.0\portofoliu.Helpers.pdb
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.csproj.AssemblyReference.cache
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.AssemblyInfoInputs.cache
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.AssemblyInfo.cs
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.dll
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Helpers\obj\Debug\netstandard2.0\portofoliu.Helpers.pdb

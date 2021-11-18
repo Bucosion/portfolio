@@ -10,3 +10,16 @@ C:\Users\37360\source\repos\portofoliu\portofoliu.BusinessLogic\bin\Debug\netsta
 C:\Users\37360\source\repos\portofoliu\portofoliu.BusinessLogic\obj\Debug\netstandard2.0\portofoliu.BusinessLogic.csproj.CopyComplete
 C:\Users\37360\source\repos\portofoliu\portofoliu.BusinessLogic\obj\Debug\netstandard2.0\portofoliu.BusinessLogic.dll
 C:\Users\37360\source\repos\portofoliu\portofoliu.BusinessLogic\obj\Debug\netstandard2.0\portofoliu.BusinessLogic.pdb
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\bin\Debug\netstandard2.0\portofoliu.BusinessLogic.deps.json
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\bin\Debug\netstandard2.0\portofoliu.BusinessLogic.dll
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\bin\Debug\netstandard2.0\portofoliu.BusinessLogic.pdb
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\bin\Debug\netstandard2.0\portofoliu.Domain.dll
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\bin\Debug\netstandard2.0\portofoliu.Domain.pdb
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\obj\Debug\netstandard2.0\portofoliu.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\obj\Debug\netstandard2.0\portofoliu.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\obj\Debug\netstandard2.0\portofoliu.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\obj\Debug\netstandard2.0\portofoliu.BusinessLogic.AssemblyInfo.cs
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\obj\Debug\netstandard2.0\portofoliu.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\obj\Debug\netstandard2.0\portofoliu.BusinessLogic.csproj.CopyComplete
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\obj\Debug\netstandard2.0\portofoliu.BusinessLogic.dll
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.BusinessLogic\obj\Debug\netstandard2.0\portofoliu.BusinessLogic.pdb

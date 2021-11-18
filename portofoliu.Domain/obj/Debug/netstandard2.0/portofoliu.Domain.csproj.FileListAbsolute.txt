@@ -7,3 +7,13 @@ C:\Users\37360\source\repos\portofoliu\portofoliu.Domain\obj\Debug\netstandard2.
 C:\Users\37360\source\repos\portofoliu\portofoliu.Domain\obj\Debug\netstandard2.0\portofoliu.Domain.csproj.CoreCompileInputs.cache
 C:\Users\37360\source\repos\portofoliu\portofoliu.Domain\obj\Debug\netstandard2.0\portofoliu.Domain.dll
 C:\Users\37360\source\repos\portofoliu\portofoliu.Domain\obj\Debug\netstandard2.0\portofoliu.Domain.pdb
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Domain\bin\Debug\netstandard2.0\portofoliu.Domain.deps.json
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Domain\bin\Debug\netstandard2.0\portofoliu.Domain.dll
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Domain\bin\Debug\netstandard2.0\portofoliu.Domain.pdb
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Domain\obj\Debug\netstandard2.0\portofoliu.Domain.csproj.AssemblyReference.cache
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Domain\obj\Debug\netstandard2.0\portofoliu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Domain\obj\Debug\netstandard2.0\portofoliu.Domain.AssemblyInfoInputs.cache
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Domain\obj\Debug\netstandard2.0\portofoliu.Domain.AssemblyInfo.cs
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Domain\obj\Debug\netstandard2.0\portofoliu.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Domain\obj\Debug\netstandard2.0\portofoliu.Domain.dll
+C:\Users\Bucos Ion\Desktop\portofoliu\portofoliu.Domain\obj\Debug\netstandard2.0\portofoliu.Domain.pdb

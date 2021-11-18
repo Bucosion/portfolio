@@ -8,7 +8,6 @@ using System.Text;
 
 namespace portofoliu.Domain
 {
-
      public class Blog : ICloneable
      {
 
